@@ -1,0 +1,15 @@
+C:\Users\Vilberto\Documents\Estudando C# Udemy\Primeiro\FazendoMedia\obj\Debug\net7.0\FazendoMedia.csproj.AssemblyReference.cache
+C:\Users\Vilberto\Documents\Estudando C# Udemy\Primeiro\FazendoMedia\obj\Debug\net7.0\FazendoMedia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vilberto\Documents\Estudando C# Udemy\Primeiro\FazendoMedia\obj\Debug\net7.0\FazendoMedia.AssemblyInfoInputs.cache
+C:\Users\Vilberto\Documents\Estudando C# Udemy\Primeiro\FazendoMedia\obj\Debug\net7.0\FazendoMedia.AssemblyInfo.cs
+C:\Users\Vilberto\Documents\Estudando C# Udemy\Primeiro\FazendoMedia\obj\Debug\net7.0\FazendoMedia.csproj.CoreCompileInputs.cache
+C:\Users\Vilberto\Documents\Estudando C# Udemy\Primeiro\FazendoMedia\bin\Debug\net7.0\FazendoMedia.exe
+C:\Users\Vilberto\Documents\Estudando C# Udemy\Primeiro\FazendoMedia\bin\Debug\net7.0\FazendoMedia.deps.json
+C:\Users\Vilberto\Documents\Estudando C# Udemy\Primeiro\FazendoMedia\bin\Debug\net7.0\FazendoMedia.runtimeconfig.json
+C:\Users\Vilberto\Documents\Estudando C# Udemy\Primeiro\FazendoMedia\bin\Debug\net7.0\FazendoMedia.dll
+C:\Users\Vilberto\Documents\Estudando C# Udemy\Primeiro\FazendoMedia\bin\Debug\net7.0\FazendoMedia.pdb
+C:\Users\Vilberto\Documents\Estudando C# Udemy\Primeiro\FazendoMedia\obj\Debug\net7.0\FazendoMedia.dll
+C:\Users\Vilberto\Documents\Estudando C# Udemy\Primeiro\FazendoMedia\obj\Debug\net7.0\refint\FazendoMedia.dll
+C:\Users\Vilberto\Documents\Estudando C# Udemy\Primeiro\FazendoMedia\obj\Debug\net7.0\FazendoMedia.pdb
+C:\Users\Vilberto\Documents\Estudando C# Udemy\Primeiro\FazendoMedia\obj\Debug\net7.0\FazendoMedia.genruntimeconfig.cache
+C:\Users\Vilberto\Documents\Estudando C# Udemy\Primeiro\FazendoMedia\obj\Debug\net7.0\ref\FazendoMedia.dll
